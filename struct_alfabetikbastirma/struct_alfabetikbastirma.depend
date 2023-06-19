@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683731123 source:c:\users\monster\desktop\c files\struct_alfabetikbastirma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
